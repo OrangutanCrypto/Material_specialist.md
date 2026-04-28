@@ -91,4 +91,5 @@
 
 ## Example Prompt for AI
 
-> 
+>  Act as a materials expert for a VTOL quadcopter. The airframe uses 12mm square carbon fiber tubes (T300, 3K plain weave). Recommend: (1) A better carbon fiber material for 30% higher stiffness at <15% weight increase, (2) A metal alternative for motor mounts that won't galvanically corrode, (3) A crash-intelligent landing gear material that deforms plastically before frame damage. Include specific grades, suppliers, and one manufacturing caution per recommendation.
+>
